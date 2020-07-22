@@ -1,3 +1,6 @@
+
+---
+
 **LoveIt;ShipIt** is a reaffirmation from maintainers who want their contributor counterparts to know that it is...
 
     1. The order of operations in the project, and so better stands to be.
@@ -10,3 +13,12 @@ The maintainer(s) of [project] have reaffirmed with honest belief...
     2. That contributors can expect the highest possible degree of respect as a result.
     3. That doing so is the surest way to invoke the sentiment from users.
 
+<!-- Project-specific contributing guide that embodies LoveIt;ShipIt -->
+
+---
+
+
+
+[LoveIt;ShipIt](CONTRIBUTING.md) in effect.
+
+Copyright and related rights waived via CC0
