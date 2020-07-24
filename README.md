@@ -10,7 +10,7 @@
 
 # Example
 
-[LoveIt;ShipIt](https://github.com/ryanraposo/love_it_ship_it) is a reaffirmation from maintainers who want their contributor counterparts to know that it is...
+[LoveIt;ShipIt](https://github.com/ryanraposo/LoveItShipIt) is a reaffirmation from maintainers who want their contributor counterparts to know that it is...
 
     1. The order of operations in the project, and so better stands to be.
     2. The standard for all changes, and so better stands to be.
@@ -25,7 +25,7 @@ The maintainer(s) of [project] have reaffirmed with honest belief...
 # Raw
 
 ```markdown
-[LoveIt;ShipIt](https://github.com/ryanraposo/love_it_ship_it) is a reaffirmation from maintainers who want their contributor counterparts to know that it is...
+[LoveIt;ShipIt](https://github.com/ryanraposo/LoveItShipIt) is a reaffirmation from maintainers who want their contributor counterparts to know that it is...
 
     1. The order of operations in the project, and so better stands to be.
     2. The standard for all changes, and so better stands to be.
