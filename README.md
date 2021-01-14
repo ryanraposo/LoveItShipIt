@@ -1,17 +1,16 @@
-  <a href="https://github.com/ryanraposo/LoveItShipIt"><img src="https://gist.githubusercontent.com/ryanraposo/594168edd80d76499d4fcb0693ccd2fc/raw/dd37acb08728631f816c4ef61cc39d37986c32a6/sticker02.svg" width=200>
-  
+<p align="center">
+  <a href="https://github.com/ryanraposo/LoveItShipIt">
+  <img src="https://gist.githubusercontent.com/ryanraposo/594168edd80d76499d4fcb0693ccd2fc/raw/37b76bda4d9a954cfd483b347ae402452eed0635/lisi-sticker.svg" width="300">
+</p>
+
 ```html
-<a href="https://github.com/ryanraposo/LoveItShipIt"><img src="https://gist.githubusercontent.com/ryanraposo/594168edd80d76499d4fcb0693ccd2fc/raw/dd37acb08728631f816c4ef61cc39d37986c32a6/sticker02.svg" width=200>
+<p align="center">
+    <a href="https://github.com/ryanraposo/LoveItShipIt">
+    <img src="https://gist.githubusercontent.com/ryanraposo/594168edd80d76499d4fcb0693ccd2fc/raw/37b76bda4d9a954cfd483b347ae402452eed0635/lisi-sticker.svg" width="300">
+</p>
 ```
 
-  [![LoveIt;ShipIt](https://img.shields.io/badge/LOVE%20IT-SHIP%20IT-black?logo=github-sponsors&style=flat&labelColor=FFFBE9&logoColor=red&link=http://github.com/ryanraposo/LoveItShipIt)]()
-
-```markdown
-<!-- Trusted-source alternative -->
-[![LoveIt;ShipIt](https://img.shields.io/badge/LOVE%20IT-SHIP%20IT-black?logo=github-sponsors&style=flat&labelColor=FFFBE9&logoColor=red&link=http://github.com/ryanraposo/LoveItShipIt)]()
-```
-
-# Example
+# Message
 
 [LoveIt;ShipIt](https://github.com/ryanraposo/LoveItShipIt) is a reaffirmation from maintainers who want their contributor counterparts to know that it is...
 
@@ -48,4 +47,3 @@ Copyright and related rights waived via CC0.
 Use as needed. Be safe.🧡
 
 "These are my wings."
-
