@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/ryanraposo/LoveItShipIt">
-  <img src="https://gist.githubusercontent.com/ryanraposo/594168edd80d76499d4fcb0693ccd2fc/raw/37b76bda4d9a954cfd483b347ae402452eed0635/lisi-sticker.svg" width="500">
+  <img src="https://gist.githubusercontent.com/ryanraposo/153aca45d806ec017633412cdbb4864a/raw/91b124c7920d33721b39737ebea0f85c7b6ce2c0/loveitshipit.svg" width="400">
 </p>
-  
+
 ```html
 <p align="center">
-    <a href="https://github.com/ryanraposo/LoveItShipIt">
-    <img src="https://gist.githubusercontent.com/ryanraposo/594168edd80d76499d4fcb0693ccd2fc/raw/37b76bda4d9a954cfd483b347ae402452eed0635/lisi-sticker.svg" width="500">
+  <a href="https://github.com/ryanraposo/LoveItShipIt">
+  <img src="https://gist.githubusercontent.com/ryanraposo/153aca45d806ec017633412cdbb4864a/raw/91b124c7920d33721b39737ebea0f85c7b6ce2c0/loveitshipit.svg" width="400">
 </p>
 ```
 
