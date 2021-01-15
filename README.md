@@ -1,13 +1,7 @@
-<p align="center">
-  <a href="https://github.com/ryanraposo/LoveItShipIt">
-  <img src="https://gist.githubusercontent.com/ryanraposo/153aca45d806ec017633412cdbb4864a/raw/91b124c7920d33721b39737ebea0f85c7b6ce2c0/loveitshipit.svg" width="400">
-</p>
+[![LoveIt;ShipIt](https://gitlab.com/ryanraposo/LoveItShipIt/-/raw/master/sticker/loveitshipit.svg)](http://github.com/ryanraposo/LoveItShipIt)
 
-```html
-<p align="center">
-  <a href="https://github.com/ryanraposo/LoveItShipIt">
-  <img src="https://gist.githubusercontent.com/ryanraposo/153aca45d806ec017633412cdbb4864a/raw/91b124c7920d33721b39737ebea0f85c7b6ce2c0/loveitshipit.svg" width="400">
-</p>
+```markdown
+[![LoveIt;ShipIt](https://gitlab.com/ryanraposo/LoveItShipIt/-/raw/master/sticker/loveitshipit.svg)](http://github.com/ryanraposo/LoveItShipIt)
 ```
 
 # Message
