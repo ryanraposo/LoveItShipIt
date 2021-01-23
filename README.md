@@ -44,4 +44,4 @@ Copyright and related rights waived via CC0.
 
 Use as needed. Be safe.🧡
 
-"These are my wings."
+"These are my wings." - Malcolm James McCormick (January 19, 1992 – September 7, 2018)
