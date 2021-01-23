@@ -4,9 +4,11 @@
 [![LoveIt;ShipIt](https://gitlab.com/ryanraposo/LoveItShipIt/-/raw/master/sticker/loveitshipit.svg)](http://github.com/ryanraposo/LoveItShipIt)
 ```
 
-# Message
+# Example
 
-[LoveIt;ShipIt](https://github.com/ryanraposo/LoveItShipIt) is a reaffirmation from maintainers who want their contributor counterparts to know that it is...
+Below is a reaffirmation from the maintainers of this project to our contributor counterparts.
+
+[LoveIt;ShipIt](https://github.com/ryanraposo/LoveItShipIt) is...
 
     1. The order of operations in the project, and so better stands to be.
     2. The standard for all changes, and so better stands to be.
@@ -21,7 +23,9 @@ The maintainer(s) of [project] have reaffirmed with honest belief...
 # Raw
 
 ```markdown
-[LoveIt;ShipIt](https://github.com/ryanraposo/LoveItShipIt) is a reaffirmation from maintainers who want their contributor counterparts to know that it is...
+Below is a reaffirmation from the maintainers of this project to our contributor counterparts.
+
+[LoveIt;ShipIt](https://github.com/ryanraposo/LoveItShipIt) is...
 
     1. The order of operations in the project, and so better stands to be.
     2. The standard for all changes, and so better stands to be.
